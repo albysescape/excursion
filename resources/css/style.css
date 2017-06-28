@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+  background-color: black;
+}
+.headings {
+  font-size: 60px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+/*  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);*/
+}
+#gray-text {
+  font-size: 20px;
+  color: gray;
+  }
+
+.download-link {
+  font-size: 16px;
+  color:blue;
+  font-weight: bold;
+  text-align: center;
+  }
+
+  #phone-pic {
+     max-width: 100%;
+     max-height: 100%;
+     display: block;
+     margin: auto auto; }
+  }
+  #copyright {
+    text-align: right;
+    color: gray;
+  }
