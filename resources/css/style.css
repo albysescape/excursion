@@ -13,15 +13,19 @@ body {
   font-size: 20px;
   color: gray;
   }
-
+video {
+  display: block;
+  margin: 0 auto;
+}
 .download {
   font-size: 16px;
-  color: Aquamarine;
   font-weight: bold;
   text-align: center;
   }
-
-  #phone-pic {
+a {
+  color: aquamarine;
+}
+#phone-pic {
      max-width: 100%;
      max-height: 100%;
      display: block;
